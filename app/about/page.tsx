@@ -12,7 +12,7 @@ export default function AboutPage() {
           height={500}
         />
       </div>
-      <h1 className={title()}>About</h1>
+      <h1 className={title()}>About us</h1>
     </div>
   );
 }
