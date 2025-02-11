@@ -25,8 +25,8 @@ export default function Homee() {
       </div>
       <div className="lg:absolute  md:absolute inset-0 flex items-center justify-center">
         <Link href={"/shop"}>
-          <Button className="rounded-md mt-4 font-mono bg-[#e6ccb3] text-orange-900 px-4 py-2 text-sm sm:text-base ">
-            See Menu
+          <Button className="rounded-md mt-4 font-mono shadow-lg  text-orange-200 px-4 py-2 text-sm sm:text-base ">
+            See product
           </Button>
         </Link>
       </div>
