@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso Roast",
+    "description": "Rich and bold espresso blend.",
+    "price": 12.99,
+    "weight": "12 oz",
+     "image": "/images/111.jpg"
+  },
+  {
+    "id": 2,
+    "name": "French Roast",
+    "description": "Dark and smoky with a hint of sweetness.",
+    "price": 11.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 3,
+    "name": "Colombian Supremo",
+    "description": "Smooth and well-balanced with a nutty flavor.",
+    "price": 13.49,
+    "weight": "12 oz"
+  },
+  {
+    "id": 4,
+    "name": "Sumatra Mandheling",
+    "description": "Earthy and full-bodied with low acidity.",
+    "price": 14.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 5,
+    "name": "Breakfast Blend",
+    "description": "Light and bright, perfect for morning.",
+    "price": 10.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 6,
+    "name": "Italian Roast",
+    "description": "Dark and intense with a rich flavor.",
+    "price": 12.49,
+    "weight": "12 oz"
+  },
+  {
+    "id": 7,
+    "name": "Hazelnut Flavored Coffee",
+    "description": "A delightful nutty flavor with a smooth finish.",
+    "price": 13.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 8,
+    "name": "Vanilla Bean Coffee",
+    "description": "Sweet and creamy with a hint of vanilla.",
+    "price": 13.49,
+    "weight": "12 oz"
+  },
+  {
+    "id": 9,
+    "name": "Mocha Java",
+    "description": "A blend of rich chocolate and coffee flavors.",
+    "price": 14.49,
+    "weight": "12 oz"
+  },
+  {
+    "id": 10,
+    "name": "Decaf House Blend",
+    "description": "Smooth and mellow, perfect for any time.",
+    "price": 11.49,
+    "weight": "12 oz"
+  },
+  {
+    "id": 11,
+    "name": "Organic Peruvian Coffee",
+    "description": "Bright and fruity with a smooth finish.",
+    "price": 15.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 12,
+    "name": "Costa Rican Tarrazu",
+    "description": "Crisp and clean with a hint of citrus.",
+    "price": 14.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 13,
+    "name": "Jamaican Blue Mountain",
+    "description": "Smooth and mild with a sweet aroma.",
+    "price": 49.99,
+    "weight": "8 oz"
+  },
+  {
+    "id": 14,
+    "name": "Ethiopian Yirgacheffe",
+    "description": "Floral and fruity with a bright acidity.",
+    "price": 16.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 15,
+    "name": "Guatemalan Antigua",
+    "description": "Rich and chocolatey with a smooth finish.",
+    "price": 14.49,
+    "weight": "12 oz"
+  },
+  {
+    "id": 16,
+    "name": "French Vanilla Coffee",
+    "description": "Creamy and sweet with a rich vanilla flavor.",
+    "price": 13.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 17,
+    "name": "Spiced Chai Coffee",
+    "description": "A unique blend of coffee and chai spices.",
+    "price": 12.99,
+    "weight": "12 oz"
+  },
+  {
+    "id": 18,
+    "name": "Cinnamon Swirl Coffee",
+    "description": "Sweet and spicy with a hint of cinnamon.",
+    "price": 13.49,
+    "weight": "12 oz"
+  },
+  {
+    "id": 19,
+    "name": "Caramel Macchiato Coffee",
+    "description": "Sweet and creamy with caramel notes.",
+    "price": 14.99,
+    "weight": "12 oz"
+  }
+]
